@@ -1,5 +1,5 @@
 Q- What do the numbers inside the parentheses after a function name do?
-A- The numbers can functionality of the specific parameters. Provide input to the function. Based on the input, the function will behave differently 
+A- Theyprovide input and control the behavior of the function. 
 
 Q- What’s the difference between fill and stroke?
 A- Fill changes the color of the entire shape vs stroke only changes the color of the border of the shape.
